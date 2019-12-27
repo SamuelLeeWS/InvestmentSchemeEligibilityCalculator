@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Investment Scheme Eligibility Calculator</string>
+    <string name="age">Age of Birth</string>
+    <string name="minBasicSalary">Min Basic Saving (RM)</string>
+    <string name="allowInvestment">Allowed Investment</string>
+    <string name="date">Date</string>
+</resources>
